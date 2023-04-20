@@ -19,7 +19,6 @@ export default defineConfig({
       },
     }),
     react(),
-    sitemap(),
   ],
   markdown: {
     remarkPlugins: [
