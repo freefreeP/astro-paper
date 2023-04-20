@@ -25,7 +25,8 @@
     "remark-collapse": "^0.1.2",
     "remark-toc": "^8.0.1",
     "satori": "^0.4.3",
-    "tailwindcss": "^3.2.7"
+    "tailwindcss": "^3.2.7",
+    "wrangler": "^2.16.0"
   },
   "devDependencies": {
     "@astrojs/react": "^2.1.0",
